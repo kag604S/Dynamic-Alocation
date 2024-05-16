@@ -9,8 +9,8 @@ void menu() {
     printf("4- Find Maximum Value\n");
     printf("5- Find Minium Value\n");
     printf("6- Calculate Average\n");
-    printf("7- Enter to fail\n");
-    printf("8- Read  fail\n");
+    printf("7- Enter to file\n");
+    printf("8- Read  file\n");
     printf("9- Stop Program\n");
 }
 
